@@ -46,9 +46,9 @@ I enjoy developing useful web services, writing clean and maintainable code, and
 
 ### 📌 Featured Projects
 
-- **[Qubit](QUBIT_PROJECT_LINK)** — A science-focused platform for people who want to connect, share ideas, and engage with like-minded individuals.
+- **[Qubit]([QUBIT_PROJECT_LINK](https://github.com/MShabani-dev/Qubit-Full-Stack-Project))** — A science-focused platform for people who want to connect, share ideas, and engage with like-minded individuals.
 
-- **[OpenVibes](OPENVIBES_PROJECT_LINK)** — A small, welcoming blog for sharing short posts and tweet-like thoughts.e.
+- **[OpenVibes]([OPENVIBES_PROJECT_LINK](https://github.com/MShabani-dev/OpenVibes-Project))** — A small, welcoming blog for sharing short posts and tweet-like thoughts.e.
 
 ---
 
