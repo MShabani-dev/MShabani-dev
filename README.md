@@ -46,15 +46,12 @@ I enjoy developing useful web services, writing clean and maintainable code, and
 
 ### 📌 Featured Projects
 
-Here are some of the projects I’ve worked on:
+- **[Qubit](QUBIT_PROJECT_LINK)** — A science-focused platform for people who want to connect, share ideas, and engage with like-minded individuals.
 
-- **[Project Name](PROJECT_LINK)** — A short description of what the project does and the technologies used.
-- **[Project Name](PROJECT_LINK)** — A short description of the problem it solves and your role in building it.
-- **[Project Name](PROJECT_LINK)** — Mention a notable feature, such as authentication, REST APIs, or a React interface.
+- **[OpenVibes](OPENVIBES_PROJECT_LINK)** — A small, welcoming blog for sharing short posts and tweet-like thoughts.e.
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINKEDIN_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MShabani-dev)
