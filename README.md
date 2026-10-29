@@ -1,5 +1,4 @@
-div align="center">
-  <h1>Mohammad Shabani</h1>
+<h1>Mohammad Shabani</h1>
   <h3>Software Developer | Backend & Full-Stack Web Development</h3>
 </div>
 
