@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Python+%26+Django+Backend+Developer;RESTful+API+Design+%26+Token+Auth;Full-Stack+with+React+%26+Tailwind+CSS;Clean+Code+%7C+Real+Projects+%7C+Continuous+Growth)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Python+and+Django+Backend+Developer;RESTful+API+Design+and+Token+Auth;Full-Stack+with+React+and+Tailwind+CSS;Clean+Code+%7C+Real+Projects+%7C+Continuous+Growth)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -134,4 +134,3 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
-
