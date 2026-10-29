@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Mohammad%20Shabani&fontSize=56&fontColor=f8fafc&fontAlignY=40&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=94a3b8" />
-
-<br/>
-
-<h3 align="center"><code>Python &amp; Django Backend Developer · RESTful API Design · Full-Stack with React</code></h3>
+<img src="assets/typing.svg" alt="Mohammad Shabani - Full-Stack Developer" />
 
 <br/>
 
@@ -134,3 +130,4 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
+
