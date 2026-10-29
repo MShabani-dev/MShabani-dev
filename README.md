@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Python+and+Django+Backend+Developer;RESTful+API+Design+and+Token+Auth;Full-Stack+with+React+and+Tailwind+CSS;Clean+Code+%7C+Real+Projects+%7C+Continuous+Growth)](https://github.com/DenverCoder1/readme-typing-svg)
+<h3 align="center"><code>Python &amp; Django Backend Developer · RESTful API Design · Full-Stack with React</code></h3>
 
 <br/>
 
