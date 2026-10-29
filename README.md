@@ -16,12 +16,12 @@
 
 I'm a software developer focused on backend engineering. I build full-stack web applications through hands-on projects and consistent self-driven learning.
 
-My core stack is **Python**, **Django**, and **Django REST Framework**. On the infrastructure side I work with **Docker**, **Git**, and **PostgreSQL**, and on the frontend I build interfaces with **React**, **Tailwind CSS**, and **Vite**.
+My core stack is **Python**, **Django**, and **Django REST Framework**. On the infrastructure side I work with **Docker** and **Git**, and on the frontend I build interfaces with **React**, **Tailwind CSS**, and **Vite**.
 
 ```text
 🔭  Focused on backend development and RESTful API design
 🧩  Building full-stack apps with Django & React
-🛠️  Working with Docker, Git, and PostgreSQL
+🛠️  Working with Docker and Git
 🌱  Continuously growing through real projects and technical reading
 🤝  Open to collaborating on meaningful software
 ```
@@ -39,8 +39,8 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
 
 **Database & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,7 +77,7 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
   <tr>
     <td width="50%" valign="top">
       <h3>🔬 <a href="https://github.com/MShabani-dev/Qubit-Full-Stack-Project">Qubit</a></h3>
-      <p>A science-focused platform for connecting people who want to share ideas and engage with like-minded individuals. Full-stack Django REST API with a React + Vite frontend, JWT authentication, and Docker Compose setup.</p>
+      <p>A science-focused platform for connecting people who want to share ideas and engage with like-minded individuals. Django REST API with a React + Vite frontend, JWT authentication, SQLite for local development, and a Docker Compose setup.</p>
       <p>
         <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -90,14 +90,13 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
       <p>
         <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/MShabani-dev/job-application-agent">Job Application Agent</a></h3>
-      <p>A browser-automation AI agent (browser-use + DeepSeek) that searches Iranian job boards (Jobinja, Jobvision, e-estekhdam) for backend and full-stack roles and prepares applications. Listings that need login, CAPTCHA, or unanswered questions are skipped.</p>
+      <p>A browser-automation AI agent (browser-use + DeepSeek) that searches Iranian job boards (Jobinja, Jobvision, e-estekhdam) for backend and full-stack roles. Listings that require login, CAPTCHA, or unanswered questions are skipped.</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-DeepSeek-000?style=flat-square" />
@@ -130,4 +129,3 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
-
