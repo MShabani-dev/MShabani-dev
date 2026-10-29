@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Mohammad%20Shabani&fontSize=56&fontColor=f8fafc&fontAlignY=40&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=94a3b8" alt="Mohammad Shabani — Backend & Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Mohammad%20Shabani&fontSize=56&fontColor=f8fafc&fontAlignY=40&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=94a3b8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Python+%26+Django+Backend+Developer;RESTful+API+Design+%26+JWT+Auth;Full-Stack+with+React+%26+Tailwind+CSS;Clean+Code+%7C+Real+Projects+%7C+Continuous+Growth)](https://git.io/typing-svg)
+<br/>
 
-[![GitHub: MShabani-dev](https://img.shields.io/badge/GitHub-MShabani--dev-0ea5e9?style=flat-square&logo=github&logoColor=white)](https://github.com/MShabani-dev)
-[![Email: gangali.644@gmail.com](https://img.shields.io/badge/Email-gangali.644%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:gangali.644@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=MShabani-dev&style=flat-square&color=0ea5e9&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=520&lines=Python+%26+Django+Backend+Developer;RESTful+API+Design+%26+Token+Auth;Full-Stack+with+React+%26+Tailwind+CSS;Clean+Code+%7C+Real+Projects+%7C+Continuous+Growth)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-MShabani--dev-0ea5e9?style=flat-square&logo=github&logoColor=white)](https://github.com/MShabani-dev)
+[![Email](https://img.shields.io/badge/Email-gangali.644%40gmail.com-0ea5e9?style=flat-square&logo=gmail&logoColor=white)](mailto:gangali.644@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=MShabani-dev&style=flat-square&color=0ea5e9&label=Profile+Views)
 
 </div>
 
@@ -14,34 +18,45 @@
 
 ## About Me
 
-I'm **Mohammad Shabani**, a **Backend & Full-Stack Developer** focused on building web applications with Python, Django, and Django REST Framework. I also work with React on the frontend and use tools such as Docker, Git, and PostgreSQL in my projects.
+I'm a software developer focused on backend engineering. I build full-stack web applications through hands-on projects and consistent self-driven learning.
 
-- Backend development and RESTful API design
-- Full-stack applications with Django and React
-- Continuous learning through hands-on projects and technical reading
-- Open to collaborating on meaningful software
+My core stack is **Python**, **Django**, and **Django REST Framework**. On the infrastructure side I work with **Docker**, **Git**, and **PostgreSQL**, and on the frontend I build interfaces with **React**, **Tailwind CSS**, and **Vite**.
 
-## Skills
-
-**Backend & APIs**  
-Python · Django · Django REST Framework (DRF) · JWT
-
-**Databases & Tools**  
-PostgreSQL · SQLite · Docker · Git · GitHub
-
-**Frontend**  
-React · JavaScript · Tailwind CSS · Vite · HTML5 · CSS3
+```text
+🔭  Focused on backend development and RESTful API design
+🧩  Building full-stack apps with Django & React
+🛠️  Working with Docker, Git, and PostgreSQL
+🌱  Continuously growing through real projects and technical reading
+🤝  Open to collaborating on meaningful software
+```
 
 ---
 
-## Featured Projects
+## Tech Stack
 
-| Project | Description | Technology |
-| --- | --- | --- |
-| [🔬 Qubit](https://github.com/MShabani-dev/Qubit-Full-Stack-Project) | A science-focused social platform for connecting people who want to share ideas and engage with like-minded individuals. | Django · React · PostgreSQL · Docker |
-| [📝 OpenVibes](https://github.com/MShabani-dev/OpenVibes-Project) | A Django blog platform with user authentication, where each registered user independently manages their topics and entries. | Django · Python · SQLite |
-| [🤖 Job Application Agent](https://github.com/MShabani-dev/job-application-agent) | A Python browser-automation agent using DeepSeek and browser-use for Jobinja, Jobvision, and e-estekhdam. It skips listings requiring login or CAPTCHA, and listings with unanswered questions. | Python · DeepSeek · browser-use |
-| [🔗 RESTful API](https://github.com/MShabani-dev/RESTful-API) | Todo and Blog APIs with token authentication and Swagger/ReDoc documentation. | Django REST Framework · Token auth · Swagger · ReDoc |
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Database & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -49,25 +64,74 @@ React · JavaScript · Tailwind CSS · Vite · HTML5 · CSS3
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MShabani-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub statistics for MShabani-dev" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShabani-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=0ea5e9" alt="Most-used languages for MShabani-dev" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MShabani-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShabani-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=0ea5e9" />
 
-<br />
+<br/>
 
-![GitHub streak for MShabani-dev](https://streak-stats.demolab.com?user=MShabani-dev&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)
+![GitHub Streak](https://streak-stats.demolab.com?user=MShabani-dev&theme=tokyonight&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)
 
 </div>
 
 ---
 
-## Connect
+## Featured Projects
 
-[![GitHub: MShabani-dev](https://img.shields.io/badge/GitHub-MShabani--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MShabani-dev)
-[![Email: gangali.644@gmail.com](https://img.shields.io/badge/Email-gangali.644%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangali.644@gmail.com)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 <a href="https://github.com/MShabani-dev/Qubit-Full-Stack-Project">Qubit</a></h3>
+      <p>A science-focused platform for connecting people who want to share ideas and engage with like-minded individuals. Full-stack Django REST API with a React + Vite frontend, JWT authentication, and Docker Compose setup.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/MShabani-dev/OpenVibes-Project">OpenVibes</a></h3>
+      <p>A Django blog platform with user authentication, where each registered user independently manages their own topics and entries, with ownership checks on every edit.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MShabani-dev/job-application-agent">Job Application Agent</a></h3>
+      <p>A browser-automation AI agent (browser-use + DeepSeek) that searches Iranian job boards (Jobinja, Jobvision, e-estekhdam) for backend and full-stack roles and prepares applications. Listings that need login, CAPTCHA, or unanswered questions are skipped.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-DeepSeek-000?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Browser_Automation-F05032?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 <a href="https://github.com/MShabani-dev/RESTful-API">RESTful API</a></h3>
+      <p>Django REST Framework practice: a Todo API and a Blog API with token authentication (dj-rest-auth), Swagger and ReDoc documentation, and owner-based permissions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=111" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Connect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" alt="Decorative blue wave footer" />
+[![GitHub](https://img.shields.io/badge/GitHub-MShabani--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MShabani-dev)
+[![Email](https://img.shields.io/badge/Email-gangali.644%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangali.644@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
 
