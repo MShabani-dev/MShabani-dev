@@ -60,8 +60,9 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the d
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MShabani-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=0ea5e9&icon_color=0ea5e9" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MShabani-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=0ea5e9" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MShabani-dev&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MShabani-dev&theme=tokyonight" />
+
 
 <br/>
 
