@@ -129,8 +129,3 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the d
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
-
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
