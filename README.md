@@ -16,12 +16,12 @@
 
 I'm a software developer focused on backend engineering. I build full-stack web applications through hands-on projects and consistent self-driven learning.
 
-My core stack is **Python**, **Django**, and **Django REST Framework**. On the infrastructure side I work with **Docker** and **Git**, and on the frontend I build interfaces with **React**, **Tailwind CSS**, and **Vite**.
+My core stack is **Python**, **Django**, and **Django REST Framework**. On the database and infrastructure side I work with **PostgreSQL**, **Docker**, and **Git**, and on the frontend I build interfaces with **React**, **JavaScript**, **Tailwind CSS**, and **Vite**.
 
 ```text
 🔭  Focused on backend development and RESTful API design
 🧩  Building full-stack apps with Django & React
-🛠️  Working with Docker and Git
+🛠️  Working with PostgreSQL, Docker, and Git
 🌱  Continuously growing through real projects and technical reading
 🤝  Open to collaborating on meaningful software
 ```
@@ -96,7 +96,7 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/MShabani-dev/job-application-agent">Job Application Agent</a></h3>
-      <p>A browser-automation AI agent (browser-use + DeepSeek) that searches Iranian job boards (Jobinja, Jobvision, e-estekhdam) for backend and full-stack roles. Listings that require login, CAPTCHA, or unanswered questions are skipped.</p>
+      <p>A browser-automation AI agent (browser-use + DeepSeek) that searches Iranian job boards (Jobinja, Jobvision, e-estekhdam) for backend and full-stack roles, then automatically submits applications. Listings that require login, CAPTCHA, or unanswered questions are skipped.</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-DeepSeek-000?style=flat-square" />
@@ -125,6 +125,11 @@ My core stack is **Python**, **Django**, and **Django REST Framework**. On the i
 [![Email](https://img.shields.io/badge/Email-gangali.644%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangali.644@gmail.com)
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=130&section=footer" />
+
 
 <br/>
 
